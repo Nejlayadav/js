@@ -1,3 +1,4 @@
+//bill
 var unit=45;
 var bill =0; 
 var a,b,c,x;
